@@ -1,3 +1,3 @@
 # Demo
 
-just to learn
+just to learn how git hub works
